@@ -5251,5 +5251,12 @@
     "repo": "fourth-form/focal",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Paperline",
+    "author": "candrapradipa",
+    "repo": "candrapradipa/obsidian-paperline",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
