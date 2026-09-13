@@ -38537,9 +38537,9 @@
   {
     "id": "alissa-sync",
     "name": "Alissa Sync",
-    "author": "rhdzmota",
+    "author": "ali-fhr",
     "description": "Mirror your Alissa vault into your notes: projects, tasks, context, deliverables and entities as wikilinked markdown, refreshed with one click. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fahera-mx/obsidian.alissa.app"
+    "repo": "ali-fhr/obsidian.alissa.app"
   },
   {
     "id": "piclinker",
@@ -48895,6 +48895,13 @@
     "repo": "onefishmanx/obsidian-todo-note"
   },
   {
+    "id": "docwen-assistant",
+    "name": "DocWen Assistant",
+    "author": "ZhengYX",
+    "description": "Open files, convert, proofread, and control local DocWen through the public DocWenCLI protocol. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhyx91/obsidian-docwen-assistant"
+  },
+  {
     "id": "clipmd",
     "name": "Clip2MD",
     "author": "Clip2MD",
@@ -52451,6 +52458,13 @@
     "repo": "agimx-ai/motusai-obsidian-agent"
   },
   {
+    "id": "merlay",
+    "name": "Merlay",
+    "author": "Ali Hashemi",
+    "description": "Visual overlay editor for Mermaid diagrams. Mermaid, your way. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dev-hashemi/merlay"
+  },
+  {
     "id": "morphic",
     "name": "Morphic",
     "author": "lunarch",
@@ -52962,6 +52976,13 @@
     "repo": "feifangit/obsidian-vault-in-vault"
   },
   {
+    "id": "ask-ai",
+    "name": "Ask AI",
+    "author": "Alberto",
+    "description": "Open selected text or an entire note in a new consumer AI chat. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "albibenni/obsidian-ask-ai"
+  },
+  {
     "id": "scvmbirther",
     "name": "SCVM Birther",
     "author": "Barrow Rook",
@@ -52981,6 +53002,13 @@
     "author": "Fourthform",
     "description": "Keep pinned tabs open until you explicitly unpin them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fourth-form/latch"
+  },
+  {
+    "id": "cf-sync",
+    "name": "CF Sync",
+    "author": "shun-shobon",
+    "description": "Sync personal vaults and collaboratively edit Markdown through your Cloudflare account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shun-shobon/obsidian-cf-sync"
   },
   {
     "id": "drawsteel-hero-importer",
@@ -53009,6 +53037,13 @@
     "author": "木尘痕",
     "description": "Manual, confirmation-based vault snapshots through a self-hosted HTTP server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "muchenhen/obsidian-snapshot-relay"
+  },
+  {
+    "id": "vault-shelf",
+    "name": "Vault Shelf",
+    "author": "Lukas Proprentner",
+    "description": "Your vault as a browsable library: shelves of books built from titles, dates, people, tags, folders or any note property, read as a two-page spread. One note can sit on six shelves at once - the files never move. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "luke321/vault-shelf"
   },
   {
     "id": "a-diary-habits",
@@ -53058,5 +53093,12 @@
     "author": "t1seo",
     "description": "Upload and use custom image icons across files, folders, tabs, note titles, and inline text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "t1seo/icon-studio"
+  },
+  {
+    "id": "tasknotes-aireporter",
+    "name": "TaskNotes AI Reporter",
+    "author": "telecomshy",
+    "description": "Generate weekly, monthly, yearly, or custom reports from TaskNotes tasks using custom templates and any OpenAI-compatible model. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "telecomshy/TaskNotesAiReporter"
   }
 ]
