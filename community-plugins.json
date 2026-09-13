@@ -34734,13 +34734,6 @@
     "repo": "skye1349/epub-reading-importer"
   },
   {
-    "id": "block-step-reader",
-    "name": "Block Step Reader",
-    "author": "gorf",
-    "description": "Reader-like step reading in Obsidian: block navigation, reading library, progress in frontmatter, and multi-language UI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gorf/obsidian-block-step-reader"
-  },
-  {
     "id": "note-calc",
     "name": "Note Calc",
     "author": "Sunny Yu",
@@ -48202,6 +48195,13 @@
     "repo": "matheusz-nied/finance-vault-obsidian"
   },
   {
+    "id": "handwriting",
+    "name": "Handwriting",
+    "author": "Alan Liu",
+    "description": "Handwrite, highlight, erase and lasso directly on your notes and PDFs. Your notes stay Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ellimist-afk/handwriting"
+  },
+  {
     "id": "vault-searchlight",
     "name": "Beacon",
     "author": "Ben Gutteridge",
@@ -51086,6 +51086,13 @@
     "repo": "the-40-thieves/obsidian-tc"
   },
   {
+    "id": "naviboard",
+    "name": "NaviBoard",
+    "author": "IvyYang1999",
+    "description": "Gather webpages, files, apps, and notes on a free canvas. Arrange, connect, preview, and revisit everything in one visual navigation board. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ivyyang1999/obsidian-naviboard"
+  },
+  {
     "id": "poppy",
     "name": "Poppy",
     "author": "opa-oz",
@@ -52444,13 +52451,6 @@
     "repo": "agimx-ai/motusai-obsidian-agent"
   },
   {
-    "id": "merlay",
-    "name": "Merlay",
-    "author": "Ali Hashemi",
-    "description": "Visual overlay editor for Mermaid diagrams. Mermaid, your way. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dev-hashemi/merlay"
-  },
-  {
     "id": "morphic",
     "name": "Morphic",
     "author": "lunarch",
@@ -53009,5 +53009,54 @@
     "author": "木尘痕",
     "description": "Manual, confirmation-based vault snapshots through a self-hosted HTTP server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "muchenhen/obsidian-snapshot-relay"
+  },
+  {
+    "id": "a-diary-habits",
+    "name": "A-Diary-Habits",
+    "author": "evinvin",
+    "description": "Track habits, journals, tags, daily reviews, tasks, and progress in one Obsidian workspace. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vinvinvin444/A-Diary-Habits-Releases"
+  },
+  {
+    "id": "embedded-outline",
+    "name": "Embedded Outline",
+    "author": "humoumou",
+    "description": "Outline replacement that includes native and Sync Embed blocks and their headings in document order. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "humoumou1215/embedded-outline"
+  },
+  {
+    "id": "upgit",
+    "name": "Upgit",
+    "author": "ewigmidori",
+    "description": "Upload images from the file explorer or editor context menu using the Upgit CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ewigmidori/upgit-obsidian"
+  },
+  {
+    "id": "fileclass-meta-bind",
+    "name": "Fileclass Meta Bind",
+    "author": "humoumou",
+    "description": "Render Fileclass fields as Meta Bind controls with FCMB[field], with a native-style persistent multi-select prompt. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "humoumou1215/fileclass-meta-bind"
+  },
+  {
+    "id": "native-search-replace",
+    "name": "Native Search Replace",
+    "author": "humoumou",
+    "description": "Adds replacement controls directly to Obsidian's built-in Search and uses the native Search result model for exact files and result rows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "humoumou1215/obsidian-native-search-replace"
+  },
+  {
+    "id": "api-db-schema-tools",
+    "name": "API Database Schema Tools",
+    "author": "humoumou",
+    "description": "Manage API and database schemas with editable grids, JSON/DDL import, inline references, spreadsheet workflows, and a reversible one-command demo onboarding flow. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "humoumou1215/api-db-schema-tools"
+  },
+  {
+    "id": "icon-studio",
+    "name": "Folder Fairy",
+    "author": "t1seo",
+    "description": "Upload and use custom image icons across files, folders, tabs, note titles, and inline text. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "t1seo/icon-studio"
   }
 ]
